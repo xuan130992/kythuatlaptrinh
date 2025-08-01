@@ -30,6 +30,7 @@ public class kieudulieu {
 	System.out.println("Dieu kien 2"+dk2);
 	boolean totnghiep = (dk1 && dk2);
 	System.out.println("ban co tot nghiep ko"+totnghiep);
+	
 	}
 
 }
