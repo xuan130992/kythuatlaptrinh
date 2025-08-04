@@ -16,7 +16,7 @@ public class NhapSoNguyenDuong {
 			System.out.println("gia tri n"+n);
 			
 		
-		
+		int q= 111;
 	}
 
 }
