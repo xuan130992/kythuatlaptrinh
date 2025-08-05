@@ -9,6 +9,7 @@ public class MinhHoaVoid {
 	
 	public static void main(String[] args) {
 		xuat();
+	
 
 	}
 
