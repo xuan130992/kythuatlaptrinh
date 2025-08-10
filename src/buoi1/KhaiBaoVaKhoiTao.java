@@ -3,8 +3,8 @@ package buoi1;
 public class KhaiBaoVaKhoiTao {
 
 	public static void main(String[] args) {
-		
-		int[] a = {1,2,7};
+		int[]a= new int[5];
+		 a = new int[]{1,2,7};
 		int[]c = {1,5,7,8,3,5,24,56};
 		double[]b = {3.6,6,2.6,4.5};
 		c[1]=2;
